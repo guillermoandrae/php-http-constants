@@ -1,5 +1,5 @@
 {
-    "name": "guillermofisher/php-http-constants",
+    "name": "guillermoandrae/php-http-constants",
     "description": "A PHP library of HTTP-related constants.",
     "type": "library",
     "require": {
